@@ -103,7 +103,7 @@ section#image img {
 @media screen and (max-width: 768px) {
   section#image img {
     width: 40%;
-    margin-top: -7rem;
+    /* margin-top: -7rem; */
   }
 }
 
